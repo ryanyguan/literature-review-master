@@ -44,6 +44,3 @@ How the change was tested:
 
 Use British English in documentation. Keep operational instructions direct. Avoid vague phrases such as "comprehensive review" unless the workflow actually supports comprehensive coverage.
 
-## Third-party material
-
-If a contribution adapts an external open-source skill, prompt, template or dataset, preserve the required notices and licences. Update `THIRD_PARTY_NOTICE.md` when needed.
