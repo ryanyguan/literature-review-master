@@ -42,5 +42,5 @@ How the change was tested:
 
 ## Style
 
-Use British English in documentation. Keep operational instructions direct. Avoid vague phrases such as "comprehensive review" unless the workflow actually supports comprehensive coverage.
+Keep operational instructions direct. Avoid vague phrases such as "comprehensive review" unless the workflow actually supports comprehensive coverage.
 
