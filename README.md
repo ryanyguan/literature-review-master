@@ -43,7 +43,7 @@ The skill does not merely summarise papers. It is designed to make decisions. It
 
 ## Embedded ABS AJG 2024 database
 
-The package includes a bundled database of all AJG 2024 journals rated 4*, 4 and 3 in the included dataset.
+The package includes a bundled database of AJG 2024 journals in the included dataset.
 
 Use the database as a search-priority and journal-scope resource. Do not use ratings as proof of relevance. A highly rated journal article should be cited only when it directly supports the research question, method, mechanism, empirical design or gap.
 
